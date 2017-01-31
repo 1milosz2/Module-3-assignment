@@ -1,0 +1,31 @@
+body {
+	font-family: 'Oxygen', sans-serif;
+}
+#header-nav {
+	background-color: orange;
+	border-radius: 0;
+	border: 0;
+
+}
+#logo-img {
+background: url('../images/dog.jpg') no-repeat;
+background-size: cover;	
+width: 150px;
+height: 150px;
+margin: 10px;
+}
+.navbar-brand{
+	padding-top: 10px;
+}
+.navbar-brand {
+	font-size: 1.5em;
+	font-transform: uppercase;
+	text-shadow: 1px 5px 15px #222;
+	line-height: .75;
+}
+.navbar-brand a:hover {
+	text-decoration: none;
+}
+.navbar-brand p span {
+	vertical-align: middle;
+}

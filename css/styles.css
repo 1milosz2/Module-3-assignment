@@ -43,3 +43,6 @@ div.col-xs-12 section {
 body {
 	background-color: #F6E3CE
 }
+h1:hover {
+	text-decoration: none;
+}
